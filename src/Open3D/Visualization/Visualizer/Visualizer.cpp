@@ -399,7 +399,7 @@ void Visualizer::PrintVisualizerHelp() {
     utility::PrintInfo("    Wheel                      : Zoom in/out.\n");
     utility::PrintInfo("\n");
     utility::PrintInfo("  -- Keyboard view control --\n");
-    utility::PrintInfo("    Ctrl/Cmd + []: Increase/decrease field of view.\n");
+    utility::PrintInfo("    Ctrl/Cmd +[/]: Increase/decrease field of view.\n");
     utility::PrintInfo("    R            : Reset view point.\n");
     utility::PrintInfo("    Ctrl/Cmd + C : Copy current view status into the clipboard.\n");
     utility::PrintInfo("    Ctrl/Cmd + V : Paste view status from clipboard.\n");
