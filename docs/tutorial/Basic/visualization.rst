@@ -32,7 +32,7 @@ Open3D provides a convenient visualization function ``draw_geometries`` which ta
       Wheel                      : Zoom in/out.
 
     -- Keyboard view control --
-      [/]          : Increase/decrease field of view.
+      Ctrl/Cmd +[/]: Increase/decrease field of view.
       R            : Reset view point.
       Ctrl/Cmd + C : Copy current view status into the clipboard.
       Ctrl/Cmd + V : Paste view status from clipboard.
